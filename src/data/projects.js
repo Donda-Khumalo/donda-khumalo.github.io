@@ -38,6 +38,6 @@ export const frontEndProjects = [
     {
         title: 'Text Editor',
         description: 'A simple text editor built with HTML, CSS, and JavaScript.',
-        link: 'https://github.com/Donda-Khumalo/Miscellaneous-Front-End-Projects/tree/main/textEditor',
+        link: 'https://donda-khumalo.github.io/Miscellaneous-Front-End-Projects/textEditor/Untitled-1.html',
     },
 ];

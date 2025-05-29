@@ -28,7 +28,7 @@ export const frontEndProjects = [
     {
         title: 'Umbrella Corp Website',
         description: 'A website for the fictional company "Umbrella Corp".',
-        link: 'https://github.com/Donda-Khumalo/UmbrellaCorpWebsite',
+        link: 'https://donda-khumalo.github.io/UmbrellaCorpWebsite/Homepage.html',
     },
     {
         title: 'Age Calculator',

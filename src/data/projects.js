@@ -33,7 +33,7 @@ export const frontEndProjects = [
     {
         title: 'Age Calculator',
         description: "A front-end app to calculate a person's age and generation from input dates.",
-        link: 'https://github.com/Donda-Khumalo/Miscellaneous-Front-End-Projects/tree/main/AgeCalculator',
+        link: 'https://donda-khumalo.github.io/Miscellaneous-Front-End-Projects/AgeCalculator/AgeCalculator.html',
     },
     {
         title: 'Text Editor',

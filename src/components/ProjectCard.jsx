@@ -7,7 +7,7 @@ const ProjectCard = ({ title, description, link }) => (
             <h3>{title}</h3>
             <p>{description}</p>
         </div>
-    </a>
+    </Link>
 );
 
 export default ProjectCard;

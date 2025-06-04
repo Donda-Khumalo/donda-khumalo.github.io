@@ -22,6 +22,7 @@ const HomePage = () => {
                         title="Explore My Projects"
                         description="Check out my portfolio of software projects, ranging from front-end apps to machine learning experiments."
                         buttonText="View Projects"
+                        location="/projects"
                     />
                 </Link>
             </section>

@@ -7,7 +7,7 @@ const HomePage = () => {
         <main style={{ maxWidth: '800px', margin: '3rem auto', padding: '0 1rem', fontFamily: 'Arial, sans-serif', color: '#222' }}>
             <section style={{ marginBottom: '3rem', textAlign: 'center' }}>
                 <h1 style={{ fontSize: '3rem', fontWeight: '700', marginBottom: '0.5rem' }}>
-                    Hi, I&apos;m a Software Development Student
+                    Hi, my name is Donda Khumalo!
                 </h1>
                 <p style={{ fontSize: '1.25rem', lineHeight: '1.6', maxWidth: '600px', margin: '0 auto' }}>
                     I am a South African software development student with an interest in data science, computational neuroscience, and machine learning.
